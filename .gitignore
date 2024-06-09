@@ -1,0 +1,6 @@
+data/*
+.DS_Store
+.ipynb_checkpoints/*
+
+# Don't exclude df_all_enriched.csv in the data directory
+!data/df_top_n_movies_customers_reviewed_all.csv
