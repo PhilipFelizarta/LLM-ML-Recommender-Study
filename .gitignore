@@ -2,5 +2,8 @@ data/*
 .DS_Store
 .ipynb_checkpoints/*
 
+# ignore config files
+config.json
+
 # Don't exclude df_all_enriched.csv in the data directory
 !data/df_top_*
